@@ -25,7 +25,7 @@ More specifically, the analysis involves the the following work:
 
 1. 	Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-Vehicle length and ground clearance (as well as intercept) are statistically unlikely to provide random amounts of variance to the linear model. In other words, vehicle length and ground clearance have a significant impact on mpg.
+Vehicle length and ground clearance (as well as intercept) are statistically unlikely to provide random amounts of variance to the linear model. In other words, vehicle length and ground clearance have a statistically-significant impact on mpg.
 
 2. Is the slope of the linear model considered to be zero? Why or why not?
 
